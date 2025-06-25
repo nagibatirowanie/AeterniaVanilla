@@ -13,7 +13,6 @@ Aeternia Vanilla preserves the pure atmosphere of classic Minecraft while adding
 
 ---
 
-Modpack is installed on our Russian-speaking **SMP** server: [AeterniaVelum](https://discord.gg/4FnUrCZ8jK)
 
 ## Key Features
 
